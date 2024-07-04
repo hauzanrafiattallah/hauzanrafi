@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hauzan Rafi Attallah</h1>
-<img style="display: block; margin-left: auto; margin-right: auto;" alt="Coding" width="500" src="https://i.gifer.com/6tXM.gif">
+<img style="display: block; margin-left: auto; margin-right: auto;" alt="Coding" width="500" src="![image](https://github.com/hauzanrafiattallah/hauzanrafiattallah/assets/137486873/c17651e1-df0e-47d2-8741-6f2aeafcfeea)
+">
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 
@@ -20,7 +21,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/hauzan-rafi/](https://www.linkedin.com/in/hauzan-rafi/)
 
-- ⚡ Fun fact **I like beautiful girl wkwk, bismillah 3 digit umur 20 tahun**
+- ⚡ Fun fact **I like beautiful girl wkwk, bismillah 3 digit in 20**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
