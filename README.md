@@ -8,7 +8,6 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hauzanrafiattallah" alt="hauzanrafiattallah" /></a> </p>
 
 - 🌱 I’m currently learning **Frontend Web Devlopment and Data Analysis**
 
