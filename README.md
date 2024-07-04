@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Hauzan Rafi Attallah</h1>
+![coding_animasi](https://github.com/hauzanrafiattallah/hauzanrafiattallah/assets/137486873/4adb4a78-978b-4895-817d-2a66cbf4dfcc)<h1 align="center">Hi 👋, I'm Hauzan Rafi Attallah</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="![Uploading coding_animasi.gif…]()
-">
+<img align="right" alt="Coding" width="500" src="https://i.gifer.com/6tXM.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hauzanrafiattallah&label=Profile%20views&color=c800ff&style=plastic" alt="hauzanrafiattallah" /> </p>
 
