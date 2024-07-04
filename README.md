@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hauzan Rafi Attallah</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2F6tXM&psig=AOvVaw2kJuJtAHW9Y2E4eZJzjUPu&ust=1720173024354000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNDGpIKOjYcDFQAAAAAdAAAAABAP">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/6tXM.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hauzanrafiattallah&label=Profile%20views&color=c800ff&style=plastic" alt="hauzanrafiattallah" /> </p>
 
