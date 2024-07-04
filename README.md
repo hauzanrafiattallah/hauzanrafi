@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hauzan Rafi Attallah</h1>
-<img style="display: block; margin-left: auto; margin-right: auto;" alt="Coding" width="500" src="![image](https://github.com/hauzanrafiattallah/hauzanrafiattallah/assets/137486873/c17651e1-df0e-47d2-8741-6f2aeafcfeea)
-">
+<img style="display: block; margin-left: auto; margin-right: auto;" alt="Coding" width="500" src="https://i.gifer.com/6tXM.gif">
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 
