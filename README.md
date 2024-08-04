@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Frontend Web Devlopment and Data Analysis**
 
-- 👯 I’m looking to collaborate on **Web Development and Data Analysis**
+- 👯 I’m looking to collaborate on **projects that involve creating interactive data visualizations, building user-friendly interfaces**
 
 - 🤝 I’m looking for help with **Backend Developer**
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/hauzan-rafi/](https://www.linkedin.com/in/hauzan-rafi/)
 
-- ⚡ Fun fact **I like nothing**
+- ⚡ Fun fact **I like data visualization**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
