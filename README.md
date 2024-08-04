@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development and Data Analysis**
 
-- 🤝 I’m looking for help with **Backend Developer wkwk**
+- 🤝 I’m looking for help with **Backend Developer**
 
 - 💬 Ask me about **All About Frontend Web Development and Data Analysis**
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/hauzan-rafi/](https://www.linkedin.com/in/hauzan-rafi/)
 
-- ⚡ Fun fact **I like beautiful girl wkwk, bismillah 3 digit in 20**
+- ⚡ Fun fact **I like nothing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
