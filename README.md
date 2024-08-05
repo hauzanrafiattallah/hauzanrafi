@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hauzanrafiattallah&label=Profile%20views&color=c800ff&style=plastic" alt="hauzanrafiattallah" /> </p>
 
-- 🌱 I’m currently learning **Frontend Web Devlopment and Data Analysis**
+- 🌱 I’m currently learning **Frontend Web Devlopment and Data Analysi**
 
 - 👯 I’m looking to collaborate on **projects that involve creating interactive data visualizations, building user-friendly interfaces**
 
